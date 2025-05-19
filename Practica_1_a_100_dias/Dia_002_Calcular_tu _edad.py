@@ -1,0 +1,1 @@
+print("cuantas semanas tienes ")
